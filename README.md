@@ -1,6 +1,7 @@
-# 📚 AI Documentation Assistant
+# 📚 AI Documentation Assistant 
 
 > An intelligent technical documentation generation system powered by Ollama, RAG, and advanced prompt engineering.
+> https://ai-documentation-assista-1pkjbi3.gamma.site/
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-red.svg)](https://streamlit.io/)
