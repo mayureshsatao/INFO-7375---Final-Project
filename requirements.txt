@@ -1,0 +1,10 @@
+# FIXED - No version conflicts
+streamlit
+chromadb
+sentence-transformers
+langchain-ollama
+pypdf
+python-docx
+
+# CrewAI with compatible versions
+crewai[tools]
